@@ -1,0 +1,15 @@
+{
+ "name": "@wcd/disco195.angularelements-kmlavcc6-fork-kmlbhr70",
+ "version": "0.0.0",
+ "description": "",
+ "license": "ISC",
+ "type": "module",
+ "homepage": "{{ homepage }}",
+ "scripts": {
+  "serve": "wcd-cli serve 3zYI6mZZLRUH9F8SqOWl --open"
+ },
+ "devDependencies": {
+  "wcd-cli": "latest"
+ },
+ "dependencies": {}
+}
